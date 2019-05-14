@@ -1,0 +1,6 @@
+framework module Pods_Petrolography {
+  umbrella header "Pods-Petrolography-umbrella.h"
+
+  export *
+  module * { export * }
+}
