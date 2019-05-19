@@ -30,3 +30,5 @@ build/
 *.xccheckout
 
 *.moved-aside
+
+*.xcuserstate
